@@ -1,0 +1,2 @@
+# GoBB
+Go Bug Bounty
